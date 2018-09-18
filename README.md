@@ -19,5 +19,5 @@ Lecture and seminar materials for each week are in ./week* folders. Homeworks ar
 
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
-- [Mikhail Usvyatsov]() - Lectures, materials, seminars
+- [Mikhail Usvyatsov](http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=242711) - Lectures, materials, seminars
 
