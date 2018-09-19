@@ -14,7 +14,7 @@ Lecture and seminar materials for each week are in ./week* folders. Homeworks ar
 # Syllabus
 - __week01__ (19.09.2018) Introduction, Rules, GIT
   - [ ] Lecture: Code execution lifecycle, compilation vs interpretation, Python, Environments, GIT
-  - [ ] Seminar: GIT (deadline in 10 days)
+  - [ ] Seminar: GIT + python (deadline in 10 days)
 
 
 # Contributors & course staff
