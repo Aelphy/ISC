@@ -18,7 +18,9 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week01__ (26.09.2018) Complexity, Representation of numbers, Stability
   - [ ] Lecture: Git, Complexity, Fixed and floating point representations, Vector norms, Stability issues
   - [ ] Seminar: numpy, python, linalg, loops, matplotlib (mini) 
-
+- __week02__ (03.10.2018) Linear systems of equations, SVD, FFT
+  - [ ] Lecture: Linear systems of equations, SVD, FFT
+  - [ ] Seminar: comparison of linear systems solvers, svd and applications, fft and applications
 
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
