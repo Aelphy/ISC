@@ -9,7 +9,7 @@
   * [__recommended__] Numerical computations slides [link](http://compmathgroup.github.io/compmath-slides/) 
 
 ## More materials:
-* __[recommended]__ - Superior book on numerical analysis - [url](https://www.researchgate.net/publication/265621004_A_Brief_Introduction_to_Numerical_Analysis)
+* __[recommended]__ - Fourier transform explanation - [link](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 
 
 ## Homework description
