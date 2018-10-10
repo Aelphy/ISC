@@ -21,6 +21,9 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week02__ (03.10.2018) Linear systems of equations, SVD, FFT
   - [ ] Lecture: Linear systems of equations, SVD, FFT
   - [ ] Seminar: comparison of linear systems solvers, svd and applications, fft and applications
+- __week03__ (10.11.2018) Fourier transform
+  - [ ] Lecture: Fast Fourier transform
+  - [ ]Seminar: solving seminar 2 due to high workload
 
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
