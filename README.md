@@ -21,9 +21,12 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week02__ (03.10.2018) Linear systems of equations, SVD, FFT
   - [ ] Lecture: Linear systems of equations, SVD, FFT
   - [ ] Seminar: comparison of linear systems solvers, svd and applications, fft and applications
-- __week03__ (10.11.2018) Fourier transform
+- __week03__ (10.10.2018) Fourier transform
   - [ ] Lecture: Fast Fourier transform
-  - [ ]Seminar: solving seminar 2 due to high workload
+  - [ ] Seminar: solving seminar 2 due to high workload
+- __week04__ (17.10.2018) Learning from data
+  - [ ] Lecture: Basic definitions, perceptron
+  - [ ] Seminar: Features, Perceptron, pandas, plots
 
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
@@ -37,3 +40,4 @@ Materials is a compilation of resources for courses of:
 - David Vernon, Algorithms and Data Structures
 - Ivan Tsibulin, Numerical methods
 - Oleg Ponomarev, Introduction to Python
+- Konstantin Vorontsov, Mathematic methods of learning by precedents
