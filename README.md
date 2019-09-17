@@ -5,7 +5,7 @@ This repo follows Fall2019 track for ETHZ and UZH students.
 Lecture and seminar materials for each week are in ./week* folders.
 
 # General info
-* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Aelphy/ISC2019/fall19)
+* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Aelphy/ISC2019/fall2019)
 * Telegram [chat room](https://t.me/iscfall19).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/Aelphy/ISC2019/issues)
 * Grading, lateness penalties and other formalities - see [this page](https://github.com/Aelphy/ISC2019/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
