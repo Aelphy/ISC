@@ -12,19 +12,19 @@ Lecture and seminar materials for each week are in ./week* folders.
 
 
 # Syllabus
-- __week00__ (18.09.2018) Introduction, Rules, Git
+- __week00__ (18.09.2019) Introduction, Rules, Git
   - [ ] Lecture: Code execution lifecycle, compilation vs interpretation, Python, Environments, Git
   - [ ] Seminar: Git + python (deadline in 10 days)
-- __week01__ (25.09.2018) Complexity, Representation of numbers, Stability
+- __week01__ (25.09.2019) Complexity, Representation of numbers, Stability
   - [ ] Lecture: Git, Complexity, Fixed and floating point representations, Vector norms, Stability issues
   - [ ] Seminar: numpy, python, linalg, loops, matplotlib (mini) 
-- __week02__ (02.10.2018) Linear systems of equations, SVD, FFT
+- __week02__ (02.10.2019) Linear systems of equations, SVD, FFT
   - [ ] Lecture: Linear systems of equations, SVD, FFT
   - [ ] Seminar: comparison of linear systems solvers, svd and applications, fft and applications
-- __week03__ (09.10.2018) Fourier transform
+- __week03__ (09.10.2019) Fourier transform
   - [ ] Lecture: Fast Fourier transform
   - [ ] Seminar: solving seminar 2 due to high workload
-- __week04__ (16.10.2018) Learning from data
+- __week04__ (16.10.2019) Learning from data
   - [ ] Lecture: Basic definitions, perceptron
   - [ ] Seminar: Features, Perceptron, pandas, plots
 
