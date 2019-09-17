@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+from csvtools.csvpp import pretty_print, parse_args 
+
+pretty_print(parse_args())
