@@ -10,9 +10,7 @@
 * __[recommended]__ - Superior book on numerical analysis - [url](https://www.researchgate.net/publication/265621004_A_Brief_Introduction_to_Numerical_Analysis)
 * Git book - [url](https://git-scm.com/book/en/v2)
 
-
 ## Homework description
-* You need to complete assignment notebook
-* You need to submit the homework according to the described protocol
+* You need to complete the assignment notebook
+* You need to submit the homework according to the [described protocol](https://github.com/Aelphy/ISC2019/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
 * Write short report in the notebook with all the findings
-
