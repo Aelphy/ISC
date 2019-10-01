@@ -18,15 +18,13 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week01__ (25.09.2019) Complexity, Representation of numbers, Stability
   - [ ] Lecture: Git, Complexity, Fixed and floating point representations, Vector norms, Stability issues
   - [ ] Seminar: numpy, python, linalg, loops, matplotlib (mini) 
-- __week02__ (02.10.2019) Linear systems of equations, SVD, FFT
-  - [ ] Lecture: Linear systems of equations, SVD, FFT
-  - [ ] Seminar: comparison of linear systems solvers, svd and applications, fft and applications
+- __week02__ (02.10.2019) Linear systems of equations, MatVec, SVD
+  - [ ] Lecture: Linear systems of equations, MatVec, SVD
+  - [ ] Seminar: comparison of linear systems solvers, SVD and applications
 - __week03__ (09.10.2019) Fourier transform
   - [ ] Lecture: Fast Fourier transform
-  - [ ] Seminar: solving seminar 2 due to high workload
-- __week04__ (16.10.2019) Learning from data
-  - [ ] Lecture: Basic definitions, perceptron
-  - [ ] Seminar: Features, Perceptron, pandas, plots
+  - [ ] Seminar: FFT and applications
+
 
 # Contributors & course staff
 Course materials and teaching performed by (in random order)

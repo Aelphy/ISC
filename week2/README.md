@@ -6,7 +6,7 @@
   * [__main__] Practical tutorial for LU(P) decomposition - [link](https://www.quantstart.com/articles/LU-Decomposition-in-Python-and-NumPy)
   * [__recommended__] Lecture on SVD  [video](https://www.youtube.com/watch?v=F-nfsSq42ow&frags=pl%2Cwn)
 * __Russian:__
-  * [__recommended__] Numerical computations slides [link](http://compmathgroup.github.io/compmath-slides/) 
+  * [__recommended__] Numerical computations slides (in Russian) [link](http://compmathgroup.github.io/compmath-slides/) 
 
 ## More materials:
 * __[recommended]__ - Fourier transform explanation - [link](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
@@ -14,8 +14,7 @@
 
 ## Homework description
 * You need to complete assignment notebook
-* You need to submit the homework according to the described protocol
+* You need to submit the homework according to the [described protocol](https://github.com/Aelphy/ISC2019/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
 * Bonus tasks are in the notebook
 * Write short report in the notebook with all the findings
-* This seminar is rather big, do not wait for the lasy moment
-
+* This seminar is rather big, do not wait for the last moment
