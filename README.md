@@ -21,9 +21,9 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week02__ (02.10.2019) Linear systems of equations, MatVec, SVD
   - [ ] Lecture: Linear systems of equations, MatVec, SVD
   - [ ] Seminar: comparison of linear systems solvers, SVD and applications
-- __week03__ (09.10.2019) Fourier transform
-  - [ ] Lecture: Fast Fourier transform
-  - [ ] Seminar: FFT and applications
+- __week03__ (09.10.2019) Sorting, Fourier transform
+  - [ ] Lecture: Sorting, Fourier transform
+  - [ ] Seminar: sorting, FFT
 
 
 # Contributors & course staff
