@@ -21,9 +21,13 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week02__ (02.10.2019) Linear systems of equations, MatVec, SVD
   - [ ] Lecture: Linear systems of equations, MatVec, SVD
   - [ ] Seminar: comparison of linear systems solvers, SVD and applications
+  - [ ] Due to high worload assignment 2 is extended, the deadline for assignment is extended for 7 days.
 - __week03__ (09.10.2019) Sorting, Fourier transform
   - [ ] Lecture: Sorting, Fourier transform
   - [ ] Seminar: sorting, FFT
+- __week04__ (16.10.2019) Data related problems
+  - [ ] Lecture: Supervised learning
+  - [ ] Seminar: advanced (numpy + matplotlib), pandas, perceptron
 
 
 # Contributors & course staff

@@ -1,5 +1,5 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC2018/tree/fall2018/week2/Lecture.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC2019/tree/fall2019/week2/Lecture.pdf)
 
 * __English:__
   * [__main__] Linear systems of equations, good intro - [link](http://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Solving.pdf)

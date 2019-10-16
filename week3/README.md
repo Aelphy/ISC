@@ -1,7 +1,11 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC2018/tree/fall2018/week3/Lecture.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC2019/tree/fall2019/week3/Lecture.pdf)
+
+* __English:__
+  * [__main__] WEB 1.0 page dedicated to Fourier Transform [link](http://www.thefouriertransform.com)
+  * [__main__] Tutorial on FFT - [link](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 
 ## Homework description
-* Due to high worload assignment 2 is extended, the deadline for assignment is extended for 7 days.
-* As usual you need to work on assignemnt 3 with the regular rpocedure.
-*
+* You need to complete assignment notebook
+* You need to submit the homework according to the [described protocol](https://github.com/Aelphy/ISC2019/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
+* Write short report in the notebook with all the findings
