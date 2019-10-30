@@ -2,8 +2,8 @@
 * [__Lecture slides__](https://github.com/Aelphy/ISC2019/tree/fall2019/week4/Lecture.pdf)
 
 * __English__:
-  * [__main__] Perceptron tutorial [link](http://130.243.105.49/~lilien/ml/seminars/2007_02_01b-Janecek-Perceptron.pdf)
-  * [__recommended__] Pattern Recognition and Machine Learning (Information Science and Statistics), Christopher M. Bishop 
+  * [__main__] All sorts of heaps [link](https://www.geeksforgeeks.org/heap-data-structure/)
+  * [__main__] Page Rank [link](http://www.cs.cmu.edu/~elaw/pagerank.pdf)
 
 ## Homework description
 * You need to complete assignment notebook
