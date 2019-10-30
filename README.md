@@ -28,7 +28,9 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week04__ (16.10.2019) Data related problems
   - [ ] Lecture: Supervised learning
   - [ ] Seminar: advanced (numpy + matplotlib), pandas, perceptron
-
+- __week05__ (30.10.2019) Graphs, Graphs algorithms
+  - [ ] Lecture: Graphs, graphs algorithms
+  - [ ] Seminar: graphs algorithms
 
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
