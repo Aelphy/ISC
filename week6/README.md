@@ -2,6 +2,11 @@
 * [__Lecture slides__](https://github.com/Aelphy/ISC2019/tree/fall2019/week6/Lecture.pdf)
 
 
+* __English__:
+  * [__main__] Halting problem [link](https://www.geeksforgeeks.org/theory-of-computation-halting-problem/)
+  * [__recommended__] Design Patterns: Elements of Reusable Object-Oriented Software
+
+
 ## Homework description
 * You need to complete assignment notebook
 * You need to submit the homework according to the [described protocol](https://github.com/Aelphy/ISC2019/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
