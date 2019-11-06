@@ -1,9 +1,6 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC2019/tree/fall2019/week5/Lecture.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC2019/tree/fall2019/week6/Lecture.pdf)
 
-* __English__:
-  * [__main__] All sorts of heaps [link](https://www.geeksforgeeks.org/heap-data-structure/)
-  * [__main__] Page Rank [link](http://www.cs.cmu.edu/~elaw/pagerank.pdf)
 
 ## Homework description
 * You need to complete assignment notebook

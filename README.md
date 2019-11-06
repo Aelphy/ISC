@@ -31,6 +31,9 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week05__ (30.10.2019) Graphs, Graphs algorithms
   - [ ] Lecture: Graphs, graphs algorithms
   - [ ] Seminar: graphs algorithms
+- __week06__ (06.11.2019) Python intrinsics
+  - [ ] Lecture: OOP, Python modules, C/C++ in python
+  - [ ] Seminar: Supervised ML + advanced plots
 
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
