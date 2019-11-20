@@ -34,7 +34,9 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week06__ (06.11.2019) Python intrinsics
   - [ ] Lecture: OOP, Python modules, C/C++ in python
   - [ ] Seminar: Supervised ML + advanced plots
-
+- __week07__ (20.11.2019) Symbolic computations, graph computations, sparse matrices
+  - [ ] Lecture: Symbolic computations, graph computations, sparse matrices
+  - [ ] Seminar: C3, SWIG, tebnsorflow 
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
 - [Mikhail Usvyatsov](http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=242711) - Lectures, materials, seminars
