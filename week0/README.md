@@ -1,5 +1,5 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC2019/tree/fall2019/week0/Lecture.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2020/week0/Lecture.pdf)
 
 * __English:__
   * [__main__] Video intro about code execution (english) - [video](https://youtu.be/42KTvGYQYnA)
@@ -18,7 +18,7 @@
 ## Homework description
 * You need to prepare environment for future seminars: install python + packages / anaconda
 * You need to complete python intro notebook
-* You need to submit the homework according to the [described protocol](https://github.com/Aelphy/ISC2019/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
+* You need to submit the homework according to the [described protocol](https://github.com/Aelphy/ISC/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
 * Bonus task 1: implement from scratch the algorithm that can check in reasonable time if the given number is prime
 * Bonus tasl 2: implement efficient factorial computation algorithm
 * Write short report in the python intro notebook with all the findings
