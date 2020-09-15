@@ -8,7 +8,7 @@ Lecture and seminar materials for each week are in ./week* folders.
 * Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Aelphy/ISC/fall2020)
 * Telegram [chat room](https://t.me/iscfall20).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/Aelphy/ISC/issues)
-* Grading, lateness penalties and other formalities - see [this page](https://github.com/Aelphy/ISC2020/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
+* Grading, lateness penalties and other formalities - see [this page](https://github.com/Aelphy/ISC/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
 
 
 # Syllabus
