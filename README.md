@@ -5,38 +5,17 @@ This repo follows Fall2019 track for ETHZ and UZH students.
 Lecture and seminar materials for each week are in ./week* folders.
 
 # General info
-* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Aelphy/ISC2019/fall2019)
-* Telegram [chat room](https://t.me/iscfall19).
-* Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/Aelphy/ISC2019/issues)
-* Grading, lateness penalties and other formalities - see [this page](https://github.com/Aelphy/ISC2019/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
+* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Aelphy/ISC/fall2020)
+* Telegram [chat room](https://t.me/iscfall20).
+* Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/Aelphy/ISC2020/issues)
+* Grading, lateness penalties and other formalities - see [this page](https://github.com/Aelphy/ISC2020/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
 
 
 # Syllabus
-- __week00__ (18.09.2019) Introduction, Rules, Git
+- __week00__ (16.09.2020) Introduction, Rules, Git
   - [ ] Lecture: Code execution lifecycle, compilation vs interpretation, Python, Environments, Git
   - [ ] Seminar: Git + python (deadline in 10 days)
-- __week01__ (25.09.2019) Complexity, Representation of numbers, Stability
-  - [ ] Lecture: Git, Complexity, Fixed and floating point representations, Vector norms, Stability issues
-  - [ ] Seminar: numpy, python, linalg, loops, matplotlib (mini) 
-- __week02__ (02.10.2019) Linear systems of equations, MatVec, SVD
-  - [ ] Lecture: Linear systems of equations, MatVec, SVD
-  - [ ] Seminar: comparison of linear systems solvers, SVD and applications
-  - [ ] Due to high worload assignment 2 is extended, the deadline for assignment is extended for 7 days.
-- __week03__ (09.10.2019) Sorting, Fourier transform
-  - [ ] Lecture: Sorting, Fourier transform
-  - [ ] Seminar: sorting, FFT
-- __week04__ (16.10.2019) Data related problems
-  - [ ] Lecture: Supervised learning
-  - [ ] Seminar: advanced (numpy + matplotlib), pandas, perceptron
-- __week05__ (30.10.2019) Graphs, Graphs algorithms
-  - [ ] Lecture: Graphs, graphs algorithms
-  - [ ] Seminar: graphs algorithms
-- __week06__ (06.11.2019) Python intrinsics
-  - [ ] Lecture: OOP, Python modules, C/C++ in python
-  - [ ] Seminar: Supervised ML + advanced plots
-- __week07__ (20.11.2019) Symbolic computations, graph computations, sparse matrices
-  - [ ] Lecture: Symbolic computations, graph computations, sparse matrices
-  - [ ] Seminar: C3, SWIG, tebnsorflow 
+ 
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
 - [Mikhail Usvyatsov](http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=242711) - Lectures, materials, seminars
