@@ -2,7 +2,7 @@
 * [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2020/week0/Lecture.pdf)
 
 * __English:__
-  * [__main__] Video intro about code execution (english) - [video](https://youtu.be/42KTvGYQYnA)
+  * [__main__] Video intro about code execution (english) - [video](https://youtu.be/Gm15Qi5k2Q0)
   * [__main__] Introduction on compilers (english) - [video](https://youtu.be/i7omPsPjsgo)
   * Optional lecture by Stephane Wirtel with python virtual machine explained (english) - [video](https://youtu.be/45BhX5wSeVs)
   * Git crash course (english) - [video](https://youtu.be/SWYqp7iY_Tc) 
