@@ -15,6 +15,11 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week00__ (16.09.2020) Introduction, Rules, Git
   - [ ] Lecture: Code execution lifecycle, compilation vs interpretation, Python, Environments, Git
   - [ ] Seminar: Git + python (deadline in 10 days)
+  
+- __week01__ (23.09.2020) Complexity, Representation of numbers, Stability
+  - [ ] Lecture: More git, Complexity, Floating-point arithmetic, Numerical stability
+  - [ ] Seminar: numpy, python, matrices, loops (deadline in 10 days)
+
  
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
