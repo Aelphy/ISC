@@ -1,6 +1,6 @@
 # Introduction to Scientific Computation Course
 
-This repo follows Fall2019 track for ETHZ and UZH students.
+This repo follows Fall2020 track for ETHZ and UZH students.
 
 Lecture and seminar materials for each week are in ./week* folders.
 
