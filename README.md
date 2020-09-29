@@ -19,6 +19,14 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week01__ (23.09.2020) Complexity, Representation of numbers, Stability
   - [ ] Lecture: More git, Complexity, Floating-point arithmetic, Numerical stability
   - [ ] Seminar: numpy, python, matrices, loops (deadline in 10 days)
+  
+- __week02__ (30.09.2020) Linear systems of equations, MatVec, SVD
+  - [ ] Lecture: Linear systems of equations, MatVec, SVD
+  - [ ] Seminar: MatVec, SVD and applications (Deadline extended for one week)
+  
+- __week03__ (07.10.2020) Sorting, Fourier Transform, FFT
+    - [ ] Lecture: Sorting, Fourier Transform, FFT
+    - [ ] Seminar: Seminar 2 extended for one week
 
  
 # Contributors & course staff
