@@ -24,9 +24,25 @@ Lecture and seminar materials for each week are in ./week* folders.
   - [ ] Lecture: Linear systems of equations, MatVec, SVD
   - [ ] Seminar: MatVec, SVD and applications (Deadline extended for one week)
 
-- __week03__ (07.10.2020) Sorting, Fourier Transform, FFT
-    - [ ] Lecture: Sorting, Fourier Transform, FFT
-    - [ ] Seminar: Seminar 2 extended for one week
+- __week03__ (07.10.2020) Sorting, Fourier transform
+   - [ ] Lecture: Sorting, Fourier transform
+   - [ ] Seminar: Last week deadline extended
+
+- __week04__ (14.10.2020) Data related problems
+   - [ ] Lecture: Supervised learning
+   - [ ] Seminar: Sorting, FFT
+
+- __week05__ (28.10.2020) Graphs, Graphs algorithms
+   - [ ] Lecture: Graphs, graphs algorithms
+   - [ ] Seminar: advanced (numpy + matplotlib), pandas, perceptron
+
+- __week06__ (11.11.2020) Python intrinsics
+   - [ ] Lecture: OOP, Python modules, C/C++ in python
+   - [ ] Seminar: graphs algorithms
+
+- __week07__ (25.11.2020) Symbolic computations, graph computations, sparse matrices
+   - [ ] Lecture: Symbolic computations, graph computations, sparse matrices
+   - [ ] Seminar: Supervised ML + advanced plots
 
  
 # Contributors & course staff
