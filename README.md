@@ -44,6 +44,10 @@ Lecture and seminar materials for each week are in ./week* folders.
    - [ ] Lecture: Symbolic computations, graph computations, sparse matrices
    - [ ] Seminar: Supervised ML + advanced plots
 
+- __week08__ (02.12.2020) Packaging, Unsupervised learning, t-SNE
+   - [ ] Lecture: Packaging, Unsupervised learning, t-SNE
+   - [ ] Seminar: C++ for python, first neaural network
+
  
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
