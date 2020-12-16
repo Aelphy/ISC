@@ -20,7 +20,7 @@ import random
 
 class Fork:
     def __init__(self):
-        self.m = Lock();
+        self.m = Lock()
 
     def take(self):
         self.m.acquire()
@@ -49,12 +49,12 @@ class Philosopher:
         if self.debug_flag:
             print('{} thinking'.format(self.id))
 
-            time.sleep(random.randint(0, 100) / 1000.)
+        time.sleep(random.randint(0, 100) / 1000.)
 
-            if self.debug_flag:
-                print('{} hungry'.format(self.id))
+        if self.debug_flag:
+            print('{} hungry'.format(self.id))
 
-            self.wait_start = time.time()
+        self.wait_start = time.time()
 
     def eat(self):
         self.wait_time += time.time() - self.wait_start
@@ -79,11 +79,11 @@ class Philosopher:
 
             self.eat()
 
-            self.fork_right.put();
+            self.fork_right.put()
             if self.debug_flag:
                 print('{} put right fork'.format(self.id))
 
-            self.fork_left.put();
+            self.fork_left.put()
             if self.debug_flag:
                 print('{} put left fork'.format(self.id))
 
@@ -91,7 +91,7 @@ class Philosopher:
         self.stop_flag = True
 
     def print_stats(self):
-        print('{} {} {}'.format(self.id, self.ea_count, self.wait_time))
+        print('{} {} {}'.format(self.id, self.eat_count, self.wait_time))
 
 
 def main():
@@ -100,7 +100,7 @@ def main():
     duration = 60000
     forks = [Fork() for _ in range(N)]
     phils = [Philosopher(i + 1, forks[(i + 1) % N], forks[i], dbg) for i in range(N)]
-    runners = [Thread(target=phils[i].run()) for i in range(N)]
+    runners = [Thread(target=phils[i].run) for i in range(N)]
     [runner.start() for runner in runners]
     time.sleep(duration / 1000.)
     [phil.stop() for phil in phils]
