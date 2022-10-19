@@ -1,5 +1,5 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC2019/tree/fall2019/week3/Lecture.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2022/week3/Lecture3.pdf)
 
 * __English:__
   * [__main__] WEB 1.0 page dedicated to Fourier Transform [link](http://www.thefouriertransform.com)
@@ -7,5 +7,5 @@
 
 ## Homework description
 * You need to complete assignment notebook
-* You need to submit the homework according to the [described protocol](https://github.com/Aelphy/ISC2019/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
+* You need to submit the homework according to the [described protocol](https://github.com/Aelphy/ISC2022/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
 * Write short report in the notebook with all the findings
