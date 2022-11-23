@@ -1,5 +1,5 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2022/week5/Lecture4.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2022/week6/Lecture6.pdf)
 
 * __English__:
   * [__main__] All sorts of heaps [link](https://www.geeksforgeeks.org/heap-data-structure/)
