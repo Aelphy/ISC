@@ -1,5 +1,5 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2020/week7/Lecture7.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2022/week7/Lecture7.pdf)
 
 
 * __English__:
