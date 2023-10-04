@@ -1,5 +1,5 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2022/week1/Lecture1.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2023/week1/Lecture1.pdf)
 
 * __English:__
   * [__main__] The paper about computational complexity, Turing machines, P and NP classes - [link](https://www.dis.uniroma1.it/~ausiello/InfoTeoIIRM/book/itc.pdf)
