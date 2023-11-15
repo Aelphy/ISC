@@ -4,6 +4,8 @@
 * __English__:
   * [__main__] All sorts of heaps [link](https://www.geeksforgeeks.org/heap-data-structure/)
   * [__main__] Page Rank [link](http://www.cs.cmu.edu/~elaw/pagerank.pdf)
+  * [__main__] pybind11 default [example](https://github.com/pybind/cmake_example)
+  * [__main__] pybind11 playful [example](https://github.com/Aelphy/pybind_seminar/tree/master)
 
 ## Homework description
 * You need to complete assignment notebook
