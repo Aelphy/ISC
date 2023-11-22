@@ -1,0 +1,16 @@
+# Task 1. 4 pts
+
+You will pass through several errors on the process of writing functions in C++ and exposing them to Python with the help of pybind.
+
+Get the starter pack here: https://github.com/Aelphy/pybind_seminar with
+1. `git clone --recursive https://github.com/Aelphy/pybind_seminar`
+2. make sure that subfolders in external are non-empty
+3. Try to compile the project and carefully read the error message, try to fix the problem yourself with the minimal change of code, revert the changes you have done
+4. Comment all the functions in __my_file.cpp__
+5. Check what should be commented in __my_file.hpp__
+6. Start uncommenting functions commented in __my_file.cpp__ one by one and compile the project after each function is exposed in __pybind_connector.cpp__
+7. Carefully read the error messages
+8. In order to let pybind distuingish overloaded function with equal name but different types use `static_cast`, check documentation on [pybind web page ](https://pybind11.readthedocs.io/en/stable/classes.html)
+9. In order to test the function you can run it from python (either from jupyter notebook or from terminal), for that you need to compile the project, add path containing the resulting __.so__ file to `sys.path`, import module and running `module.function(arg1, arg2, ...)`
+10. When all functions except `matmul` are implemented and tested (you can run them from python terminal / jupyter) implement __matmul__ method that can efficiently multiply two matrices
+11. Compare the runtime of you matmul and np.dot for several matrices and plot the runtime vs matrix size
