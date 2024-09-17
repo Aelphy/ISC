@@ -5,13 +5,13 @@ This repo follows Fall2023 track for ETHZ and UZH students.
 Lecture and seminar materials for each week are in ./week* folders.
 
 # General info
-* Telegram [chat room](https://t.me/iscfall23).
+* Telegram [chat room](https://t.me/iscfall24).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/Aelphy/ISC/issues)
 * Grading, lateness penalties and other formalities - see [this page](https://github.com/Aelphy/ISC/wiki/Homeworks-and-grading-(ETHZ-and-UZH))
 
 
 # Syllabus
-- __week00__ (20.09.2023) Introduction, Rules, Git
+- __week00__ (18.09.2024) Introduction, Rules, Git
   - [ ] Lecture: Code execution lifecycle, compilation vs interpretation, Python, Environments, Git
   - [ ] Seminar: Git + python (deadline in 10 days)
 
