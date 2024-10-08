@@ -17,9 +17,12 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week01__ (25.09.2024) More git, Complexity, Numerical stability, Fp format
   - [ ] Lecture: Git, Complexity, Fixed and floating point representations, Stability issues
   - [ ] Seminar: Convolution, intro to python, loops (deadline in 10 days)
-- __week01__ (02.10.2024) 
+- __week02__ (02.10.2024) 
   - [ ] Lecture: Linear systems, Mat - Vec
   - [ ] Seminar: Matmul, Fast conv, itterative algorithm (deadline in 10 days)
+- __week03__ (09.10.2024) 
+  - [ ] Lecture: Fourier transform, FFT, SVD
+  - [ ] Seminar: FFT, SVD recommender (deadline in 10 days)
  
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
