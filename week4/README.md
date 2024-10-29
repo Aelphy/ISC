@@ -1,5 +1,5 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2022/week4/Lecture.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2024/week4/Lecture.pdf)
 
 ## Homework description
 * You need to complete assignment notebook
