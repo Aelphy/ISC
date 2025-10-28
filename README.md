@@ -20,6 +20,12 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week02__ (21.10.2025) 
   - [ ] Lecture: Linear systems, Mat - Vec
   - [ ] Seminar: Matmul, Fast conv, itterative algorithm (deadline in 10 days)
+- __week03__ (29.10.2025) 
+  - [ ] Lecture: Fourier transform, FFT, SVD
+  - [ ] Seminar: FFT, SVD recommender (deadline in 10 days)
+- __week04__ (05.11.2025) 
+  - [ ] Lecture: Sorting, Graphs, Graph Algorithms
+  - [ ] Seminar: FFT, Sorting, Convolution (deadline in 10 days)
  
 # Contributors & course staff
 Course materials and teaching performed by (in random order)

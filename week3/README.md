@@ -1,5 +1,5 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2024/week3/Lecture3.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2025/week3/Lecture3.pdf)
 
 * __English:__
   * [__main__] WEB 1.0 page dedicated to Fourier Transform [link](http://www.thefouriertransform.com)
