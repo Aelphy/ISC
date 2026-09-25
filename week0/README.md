@@ -1,5 +1,5 @@
 ## Materials:
-* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2026/week0/Lecture.pdf)
+* [__Lecture slides__](https://github.com/Aelphy/ISC/tree/fall2026/week0/Lecture0.pdf)
 
 * __English:__
   * [__main__] Video intro about code execution (english) - [video](https://youtu.be/Gm15Qi5k2Q0)
