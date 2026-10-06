@@ -18,6 +18,10 @@ Lecture and seminar materials for each week are in ./week* folders.
 - __week01__ (23.09.2026) Complexity, Float, Numerical Stability, Linear Systems
   - [ ] Lecture: All of the above
   - [ ] Seminar: Convolution, Matmul, Stability (deadline in 10 days)
+
+- __week02__ (30.09.2026) Linear Systems
+  - [ ] Lecture: Linear Systems
+  - [ ] Seminar: Fast Convolution, Linear Systems, Solving a PDE numerically (deadline in 10 days)
  
 # Contributors & course staff
 Course materials and teaching performed by (in random order)
